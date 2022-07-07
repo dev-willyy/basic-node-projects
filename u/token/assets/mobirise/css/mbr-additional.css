@@ -84,6 +84,11 @@ html::-webkit-scrollbar-thumb:hover {
     font-size: 1.5rem;
 }
 
+div.item-img img {
+    width: 50% !important;
+    margin: 0 auto;
+}
+
 /* ---- Fluid typography for mobile devices ---- */
 
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
